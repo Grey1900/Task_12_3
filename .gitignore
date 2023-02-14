@@ -4,8 +4,12 @@
 .ccls-cache/
 cmake-build-debug/
 cmake-build-debug-mingw/
+*.o
 *.txt
 *.md
 *.exe
 *.replit
 *.nix
+*main
+*main-debug
+*Makefile
